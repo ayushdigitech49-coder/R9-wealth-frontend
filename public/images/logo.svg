@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 190" width="100%" height="100%" fill="none">
+  <defs>
+    <linearGradient id="r9-blue-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4172B8"/>
+      <stop offset="100%" stop-color="#5A8FD4"/>
+    </linearGradient>
+    <linearGradient id="r9-green-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7AB539"/>
+      <stop offset="100%" stop-color="#95C94E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Letter R -->
+  <path d="M 20 20 H 65 C 85 20 98 32 98 50 C 98 66 86 78 68 81 L 98 135 H 74 L 46 84 H 42 V 135 H 20 V 20 Z M 42 38 V 66 H 64 C 74 66 80 60 80 52 C 80 44 74 38 64 38 H 42 Z" fill="url(#r9-blue-grad)"/>
+
+  <!-- Number 9 -->
+  <path d="M 160 20 C 130 20 108 42 108 77.5 C 108 113 130 135 160 135 C 176 135 190 128 198 116 V 135 H 218 V 60 C 218 36 194 20 160 20 Z M 163 38 C 182 38 198 50 198 77.5 C 198 105 182 117 163 117 C 144 117 128 105 128 77.5 C 128 50 144 38 163 38 Z" fill="url(#r9-blue-grad)"/>
+
+  <!-- Growth Arrow -->
+  <path d="M 115 110 C 135 75 168 45 220 24 L 210 12 L 248 10 L 242 48 L 230 36 C 182 55 152 82 132 122 Z" fill="url(#r9-blue-grad)"/>
+
+  <!-- WEALTH Text -->
+  <text x="235" y="105" font-family="'Inter', 'Montserrat', 'Helvetica', sans-serif" font-size="64" font-weight="800" fill="url(#r9-green-grad)" letter-spacing="1">WEALTH</text>
+
+  <!-- Tagline -->
+  <g font-family="'Inter', 'Montserrat', 'Helvetica', sans-serif" font-size="20" font-weight="700" letter-spacing="4">
+    <text x="62" y="172" fill="url(#r9-blue-grad)">INVEST</text>
+    <text x="182" y="172" fill="url(#r9-green-grad)">|</text>
+    <text x="202" y="172" fill="url(#r9-green-grad)">GROW</text>
+    <text x="312" y="172" fill="url(#r9-green-grad)">|</text>
+    <text x="332" y="172" fill="url(#r9-blue-grad)">SUCCEED</text>
+  </g>
+</svg>

@@ -1,0 +1,82 @@
+:root {
+  /* R9 Wealth Brand — Light Theme */
+  --background: 0 0% 100%;
+  --foreground: 222 47% 11%;
+
+  /* Brand Blue #4172B8 */
+  --primary: 215 48% 49%;
+  --primary-foreground: 0 0% 100%;
+
+  /* Brand Green #7AB539 */
+  --brand-green: 82 52% 47%;
+  --brand-green-foreground: 0 0% 100%;
+
+  --secondary: 210 40% 96%;
+  --secondary-foreground: 222 47% 11%;
+
+  --accent-gold: 82 52% 47%;
+  --accent-gold-foreground: 0 0% 100%;
+
+  --surface: 210 40% 98%;
+  --surface-hover: 210 40% 96%;
+
+  --muted: 210 40% 96%;
+  --muted-foreground: 215 16% 47%;
+
+  --border: 214 32% 91%;
+  --input: 214 32% 91%;
+  --ring: 215 48% 49%;
+
+  --success: 82 52% 47%;
+  --success-foreground: 0 0% 100%;
+
+  --warning: 38 92% 50%;
+  --warning-foreground: 48 96% 89%;
+
+  --danger: 0 84% 60%;
+  --danger-foreground: 0 0% 100%;
+
+  --info: 215 48% 49%;
+  --info-foreground: 0 0% 100%;
+
+  --radius: 0.75rem;
+}
+
+.dark {
+  --background: 222 47% 6%;
+  --foreground: 210 40% 98%;
+
+  --primary: 215 48% 55%;
+  --primary-foreground: 0 0% 100%;
+
+  --brand-green: 82 52% 52%;
+  --brand-green-foreground: 0 0% 100%;
+
+  --secondary: 217 33% 17%;
+  --secondary-foreground: 210 40% 98%;
+
+  --accent-gold: 82 52% 52%;
+  --accent-gold-foreground: 222 47% 6%;
+
+  --surface: 222 47% 9%;
+  --surface-hover: 217 33% 17%;
+
+  --muted: 217 33% 17%;
+  --muted-foreground: 215 20% 65%;
+
+  --border: 217 33% 17%;
+  --input: 217 33% 17%;
+  --ring: 215 48% 55%;
+
+  --success: 82 52% 52%;
+  --success-foreground: 0 0% 100%;
+
+  --warning: 38 92% 50%;
+  --warning-foreground: 48 96% 10%;
+
+  --danger: 0 63% 31%;
+  --danger-foreground: 210 40% 98%;
+
+  --info: 215 48% 55%;
+  --info-foreground: 0 0% 100%;
+}
